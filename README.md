@@ -1,3 +1,3 @@
 # wintergathering
 
-[wintergathering.org](wintergathering.org): A website for the gatherers
+wintergathering.org: A website for the gatherers
